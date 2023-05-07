@@ -1,0 +1,12 @@
+.new_item_true {
+    color: blue;
+}
+.new_item_false {
+   color: red;
+}
+.available_item_true {
+     color: blue;
+}
+.available_item_false {
+    color: red;
+ }
